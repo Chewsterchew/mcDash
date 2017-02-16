@@ -1,8 +1,6 @@
-<p align="center"><img src="https://belowaverage.org/Scripts/mcDash/dpnd/images/logo.png"></p><hr>
-
 mcDash is for anyone and everyone to get behind the scenes access to server statistics whenever.
 
-[Website](http://belowaverage.org/mcDash) | [Bug Tracker](https://belowaverage.org/mcDash/Task%20Tracker/)
+~~Website~~ Coming soon! | [Bug Tracker](https://github.com/Chewsterchew/mcDash/issues)
 
 ###Features
 
